@@ -6,48 +6,51 @@
 </p>
 
 <p align="center">
-  <a href="mailto:devprestacoes@gmail.com"><img src="https://img.shields.io/badge/Email-devprestacoes@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/victoremanuel23"><img src="https://img.shields.io/badge/GitHub-victoremanuel23-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/vitor-emanuel-006369361"><img src="https://img.shields.io/badge/LinkedIn-vitor--emanuel-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:devprestacoes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devprestacoes@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/victoremanuel23">
+    <img src="https://img.shields.io/badge/GitHub-victoremanuel23-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-emanuel-006369361">
+    <img src="https://img.shields.io/badge/LinkedIn-vitor--emanuel-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💼 Sobre Mim
+## 🧑‍💼 Sobre Mim
 
-Sou **Vitor Emanuel**, um apaixonado por **qualidade de software**. Atuo como **QA (Quality Assurance)** com foco em testes manuais e automatizados, garantindo aplicações robustas, seguras e de alta performance. 
+Sou **Vitor Emanuel**, **QA (Quality Assurance)** com foco em **testes manuais e automatizados** para garantir a qualidade, segurança e desempenho de aplicações. Tenho também um conhecimento sólido em **front-end e back-end**, o que me dá uma visão completa para validar os sistemas de maneira eficiente.
 
-Também possuo conhecimentos sólidos em **desenvolvimento front-end e back-end**, o que me permite entender melhor a estrutura das aplicações e criar estratégias de testes mais eficazes.
-
-Tenho 16 anos, sou emancipado e já atuo profissionalmente na área com foco em crescimento, aprendizado contínuo e entregas de excelência.
+Atualmente, estou sempre buscando me aprimorar e evoluir na área de **Quality Assurance** com ênfase em **testes de carga, segurança e acessibilidade**.
 
 ---
 
 ## 🧪 Especialidades
 
-- ✅ Testes Manuais e Exploratórios
-- 🤖 Testes Automatizados com Cypress, Playwright e Detox
-- 🔗 Testes de API com Postman e Playwright
-- 📱 Testes Mobile em emuladores Android (React Native)
-- ⚙️ Testes de Carga com JMeter
-- 🔐 Testes de Segurança (em aprendizado contínuo)
-- 🧑‍💻 Conhecimento em Desenvolvimento Front-end e Back-end
-- 🔄 Integração com Git, GitHub e práticas de CI/CD
+- ✅ **Testes Manuais e Exploratórios**
+- 🤖 **Testes Automatizados** (Cypress, Playwright, Jest)
+- 🔗 **Testes de API** (Postman, Newman)
+- 📱 **Testes Mobile** (Detox, Emuladores Android)
+- ⚙️ **Testes de Carga** (JMeter)
+- 🔐 **Testes de Segurança** (em aprendizado contínuo)
+- 💻 **Desenvolvimento Front-end e Back-end** (como suporte à QA)
+- 🔄 **Integração com Git, GitHub, e CI/CD**
 
 ---
 
 ## 🧰 Tecnologias e Ferramentas
 
-| Categoria       | Ferramentas / Tecnologias                       |
-|----------------|--------------------------------------------------|
-| **Linguagens**  | JavaScript (Node.js), HTML, CSS                 |
-| **Frameworks**  | Playwright, Cypress, Detox                      |
-| **API Testing** | Postman, Newman                                 |
-| **Performance** | JMeter                                          |
-| **Mobile**      | Emuladores Android, Detox                       |
-| **Automação**   | Jest, Mocha                                     |
-| **Controle de Versão** | Git, GitHub                            |
-| **CI/CD**       | Estudando para implementação contínua           |
+| Categoria          | Ferramentas / Tecnologias                                  |
+|--------------------|-------------------------------------------------------------|
+| **Linguagens**      | ![JavaScript](https://img.shields.io/badge/JavaScript-FFF200?style=for-the-badge&logo=javascript&logoColor=black) JavaScript, HTML, CSS |
+| **Automação**       | ![Cypress](https://img.shields.io/badge/Cypress-4D61C1?style=for-the-badge&logo=cypress&logoColor=white) Cypress, Playwright |
+| **API Testing**     | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) Postman, Newman |
+| **Performance**     | ![JMeter](https://img.shields.io/badge/JMeter-FB5B00?style=for-the-badge&logo=apache&logoColor=white) JMeter |
+| **Mobile Testing**  | ![Detox](https://img.shields.io/badge/Detox-00B0B9?style=for-the-badge&logo=detox&logoColor=white) Detox |
+| **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) Git, GitHub |
+| **CI/CD**           | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) GitHub Actions |
 
 ---
 
@@ -55,25 +58,24 @@ Tenho 16 anos, sou emancipado e já atuo profissionalmente na área com foco em 
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Testes com Cypress](https://github.com/victoremanuel23/testes-cypress) | Automação de testes e2e para aplicações web | Cypress, JavaScript |
-| [API Testing com Postman](https://github.com/victoremanuel23/api-postman) | Testes de API REST com coleções organizadas | Postman, Newman |
-| [Testes Mobile com Detox](https://github.com/victoremanuel23/testes-mobile-detox) | Testes automatizados para apps React Native | Detox, JavaScript |
+| ![Cypress GIF](https://media.giphy.com/media/26BRBq3Eaw7uXJBCU/giphy.gif) [Testes com Cypress](https://github.com/victoremanuel23/testes-cypress) | Testes automatizados para aplicações web | Cypress, JavaScript |
+| ![Postman GIF](https://media.giphy.com/media/JuT5YtvDbzXmjPo56L/giphy.gif) [API Testing com Postman](https://github.com/victoremanuel23/api-postman) | Testes de API REST com coleções automatizadas | Postman, Newman |
+| ![Detox GIF](https://media.giphy.com/media/l3vRkW3ClbPZyD1mY/giphy.gif) [Testes Mobile com Detox](https://github.com/victoremanuel23/testes-mobile-detox) | Testes automatizados para apps React Native | Detox, JavaScript |
 
 ---
 
 ## 🚀 Em Desenvolvimento
 
-- Aprendendo **testes de acessibilidade**
-- Aprofundando em **segurança e CI/CD**
-- Concluindo 6 avaliações práticas como QA freelancer
-- Construindo portfólio profissional no GitHub
+- 🛠️ **Aprendendo Testes de Acessibilidade**
+- 🔒 **Aprofundando em Testes de Segurança**
+- 🏗️ **Desenvolvendo meu Portfólio no GitHub**
+- 💻 **Concluindo Avaliações Práticas para Freelancer**
 
 ---
 
 ## 🤝 Vamos Trabalhar Juntos?
 
-Se você precisa de alguém focado, técnico e com sede por qualidade, conte comigo!  
-Estou pronto para somar ao seu time ou projeto com dedicação, disciplina e excelência.
+Se você busca um profissional focado e técnico, pronto para oferecer soluções de qualidade, estou à disposição para agregar ao seu time ou projeto. Vamos melhorar a qualidade do seu software juntos!
 
 📬 **Email:** [devprestacoes@gmail.com](mailto:devprestacoes@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/vitor-emanuel-006369361](https://www.linkedin.com/in/vitor-emanuel-006369361)
@@ -81,5 +83,5 @@ Estou pronto para somar ao seu time ou projeto com dedicação, disciplina e exc
 ---
 
 <p align="center">
-  <i>“Qualidade não é um ato, é um hábito.” – Aristóteles</i>
+  <i style="color: white;">“Qualidade não é um ato, é um hábito.” – Aristóteles</i>
 </p>
