@@ -1,8 +1,8 @@
-<h1 align="center">**Vitor Emanuel**</h1>
+<h1 align="center" style="color: #FFFFFF; font-family: 'Arial', sans-serif; font-size: 2.5rem;">**Vitor Emanuel**</h1>
 
-<p align="center">
+<p align="center" style="color: #DCDCDC; font-family: 'Arial', sans-serif; font-size: 1.2rem;">
   <b>Especialista em Quality Assurance | Desenvolvedor Front-End</b><br/>
-  <i>Garantindo os mais altos padrões de qualidade para software através de testes eficazes e automação.</i>
+  <i>Garantindo excelência no desenvolvimento e qualidade de software através de testes eficazes e automação.</i>
 </p>
 
 <p align="center">
@@ -22,20 +22,20 @@
 
 ## **Sobre Mim**
 
-<p align="center">
-  <i style="font-size: 1.2rem; font-weight: 300;">Olá, sou Vitor Emanuel, um entusiasta da **qualidade de software** e da **automação de testes**.</i>
+<p align="center" style="color: #DCDCDC; font-family: 'Arial', sans-serif; font-size: 1.2rem;">
+  <i>Olá, sou Vitor Emanuel, apaixonado por **qualidade de software** e **automação de testes**.</i>
 </p>
 
-<p>
-  Com um forte foco em **Quality Assurance (QA)** e **Desenvolvimento Front-End**, atuo ativamente na garantia da qualidade de produtos digitais através de testes rigorosos, tanto manuais quanto automatizados. Sou apaixonado por garantir que as aplicações entreguem um desempenho impecável, especialmente em **APIs**, **mobile** e **performance**.
+<p style="color: #DCDCDC; font-family: 'Arial', sans-serif;">
+  Tenho 16 anos e sou um **Especialista em Quality Assurance (QA)** com um forte foco em **desenvolvimento front-end**. Meu objetivo é garantir a qualidade de produtos digitais através de testes rigorosos, tanto manuais quanto automatizados, com ênfase em **APIs**, **mobile**, e **performance**.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Quality%20Assurance-%E2%9C%93-4CAF50?style=for-the-badge" />
 </p>
 
-<p>
-  Com experiência prática e uma mentalidade voltada para **resultados**, minha missão é entregar sistemas robustos, sem falhas e com a melhor experiência para o usuário. Busco continuar meu aprendizado e expandir meu portfólio, sempre com foco em melhorar a qualidade do software.
+<p style="color: #DCDCDC; font-family: 'Arial', sans-serif;">
+  Tenho experiência prática em garantir que as aplicações entreguem um desempenho impecável, e minha missão é sempre melhorar a qualidade do software, garantindo a melhor experiência para o usuário. Estou sempre buscando expandir meu conhecimento e aprimorar meu portfólio.
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ## **Habilidades & Tecnologias**
 
 ### **Quality Assurance**
-- 🛠️ **Testes Manuais**: Testes funcionais, de regressão e exploratórios.
+- 🛠️ **Testes Manuais**: Testes funcionais, de regressão, de integração e exploratórios.
 - 🤖 **Automação de Testes**: Cypress, Playwright, Jest.
 - 🔌 **Testes de API**: Postman, Newman.
 - ⚡ **Testes de Performance**: JMeter.
@@ -68,7 +68,7 @@
 
 ## **Projetos em Destaque**
 
-Aqui estão alguns projetos em que trabalhei, mostrando minhas habilidades em testes automatizados e QA:
+Aqui estão alguns projetos em que trabalhei, demonstrando minhas habilidades em testes automatizados e QA:
 
 | Projeto  | Descrição | Tecnologias |
 |----------|-----------|-------------|
@@ -81,7 +81,7 @@ Aqui estão alguns projetos em que trabalhei, mostrando minhas habilidades em te
 ## **Atualmente Estou Trabalhando Em**
 
 - Aprofundando meus conhecimentos em **Testes de Segurança**
-- Expandindo a experiência em **Testes de Acessibilidade**
+- Expandindo minha experiência em **Testes de Acessibilidade**
 - Construindo um portfólio robusto no **GitHub**
 - Preparando para iniciar **trabalhos como freelancer** na área de QA
 
@@ -89,13 +89,13 @@ Aqui estão alguns projetos em que trabalhei, mostrando minhas habilidades em te
 
 ## **Vamos Conectar?**
 
-Estou aberto a novas oportunidades e discussões sobre qualidade de software. Não hesite em entrar em contato!
+Estou sempre aberto a novas oportunidades e discussões sobre qualidade de software. Sinta-se à vontade para entrar em contato!
 
 📬 **Email**: [devprestacoes@gmail.com](mailto:devprestacoes@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/vitor-emanuel-006369361](https://www.linkedin.com/in/vitor-emanuel-006369361)
 
 ---
 
-<p align="center">
-  <i style="font-size: 0.9rem; color: gray;">“Qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente.” – John Ruskin</i>
+<p align="center" style="color: #A9A9A9; font-family: 'Arial', sans-serif;">
+  <i style="font-size: 0.9rem;">“Qualidade nunca é um acidente; é sempre o resultado de um esforço inteligente.” – John Ruskin</i>
 </p>
