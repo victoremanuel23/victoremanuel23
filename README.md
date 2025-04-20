@@ -64,13 +64,9 @@ Automação de testes para apps móveis com **Detox**, garantindo a funcionalida
 
 ---
 
-## **Experiência Profissional**
+## **Experiência Profissional QA**
 
-### **Freelancer - Quality Assurance**
-Atualmente, atuo como freelancer, aplicando minhas habilidades para realizar testes manuais e automatizados em sistemas e produtos digitais. Minha meta é entregar soluções eficientes que atendam aos requisitos de qualidade dos meus clientes.
-
-### **QA na SenacX**
-Atuo no **SenacX**, onde sou responsável por realizar e automatizar testes em produtos digitais, garantindo que cada lançamento esteja livre de falhas críticas.
+### **EM BREVE**
 
 ---
 
