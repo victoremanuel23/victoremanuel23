@@ -72,11 +72,9 @@ Automação de testes para apps móveis com **Detox**, garantindo a funcionalida
 
 ## **Contatos**
 
-- 📧 **Email**: [devprestacoes@gmail.com](mailto:devprestacoes@gmail.com)
-- 🔗 **LinkedIn**: [Vitor Emanuel](https://www.linkedin.com/in/vitor-emanuel-006369361)
-- 💻 **GitHub**: [victoremanuel23](https://github.com/victoremanuel23)
-
----
+- <img src="https://img.icons8.com/color/24/000000/gmail-new.png"/> **Email**: [devprestacoes@gmail.com](mailto:devprestacoes@gmail.com)  
+<img src="https://img.icons8.com/color/24/000000/linkedin.png"/> **LinkedIn**: [Vitor Emanuel](https://www.linkedin.com/in/vitor-emanuel-006369361)  
+<img src="https://img.icons8.com/ios-glyphs/24/000000/github.png"/> **GitHub**: [victoremanuel23](https://github.com/victoremanuel23)
 
 ## **Frase Final**
 
