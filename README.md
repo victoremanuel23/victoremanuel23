@@ -60,7 +60,7 @@ Automação de testes para apps móveis com **Detox**, garantindo a funcionalida
 - Aprofundar meus conhecimentos em **Testes de Segurança**.
 - Expandir minha experiência em **Testes de Acessibilidade**.
 - Continuar expandindo meu **portfólio** com mais projetos open-source.
-- Iniciar minha jornada como **freelancer** especializado em **QA**.
+- minha jornada como **freelancer** especializado em **QA**.
 
 ---
 
