@@ -1,7 +1,7 @@
-<h2 align="left">👨‍💻 Olá! Eu sou o Vítor Emanuel — QA Specialist & Dev</h2>
+<h2 align="left">👨‍💻 Olá! Eu sou o Vítor Emanuel</h2>
 
 <p align="left">
-Tenho <strong>16 anos</strong> e sou de <strong>Januária - MG</strong>. Atuo como <strong>especialista em testes de software (Quality Assurance)</strong>, com experiência em testes funcionais, automatizados, de carga e mobile. Sou também desenvolvedor secundário, apaixonado por <strong>tecnologia, performance e qualidade</strong>.
+  Tenho <strong>16 anos</strong> e sou de <strong>Januária - MG</strong>. Atuo como <strong>especialista em testes de software (Quality Assurance)</strong>, com experiência em testes funcionais, automatizados, de carga e mobile. Sou também desenvolvedor secundário, apaixonado por <strong>tecnologia, performance e qualidade</strong>.
 </p>
 
 ---
@@ -11,17 +11,14 @@ Tenho <strong>16 anos</strong> e sou de <strong>Januária - MG</strong>. Atuo co
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victoremanuel23&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuel23&layout=donut-vertical&theme=dracula&hide_border=false&langs_count=6" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=victoremanuel23&theme=dracula&hide_border=false" height="160" />
 </div>
 
 ---
-<
-
 
 <h3 align="left">🚀 Meus Projetos</h3>
 
 <p align="left">
-  Abaixo estão alguns dos meus projetos mais recentes, focados em **Quality Assurance** e **Automação de Testes**:
+  Aqui estão alguns dos meus projetos mais recentes, com foco em <strong>Quality Assurance</strong> e <strong>Automação de Testes</strong>:
 </p>
 
 <ul align="left">
@@ -33,22 +30,22 @@ Tenho <strong>16 anos</strong> e sou de <strong>Januária - MG</strong>. Atuo co
 
 ---
 
-<h3 align="left">🧠 **Minhas Habilidades**</h3>
+<h3 align="left">🧠 Minhas Habilidades</h3>
 
 ### ✅ **Quality Assurance (QA)**
-- 🛠️ **Testes Manuais**: Experiência em testes funcionais, de regressão, exploração e validação de requisitos.
-- 🤖 **Automação de Testes**: Profundo conhecimento de **Cypress**, **Playwright** e **Jest** para automação de fluxos de teste complexos.
-- 🔌 **Testes de API**: Testes de integração utilizando **Postman**, **Newman** e **Rest Assured** para garantir a comunicação eficaz entre os sistemas.
-- ⚡ **Testes de Performance**: Análise de desempenho utilizando **JMeter** para identificar gargalos e otimizar a performance das aplicações.
-- 📱 **Testes Mobile**: Automatização de testes para aplicativos móveis com **Detox**, cobrindo todas as funcionalidades em dispositivos Android.
+- 🛠️ **Testes Manuais**: Testes funcionais, de regressão, exploração e validação de requisitos.
+- 🤖 **Automação de Testes**: Domínio de **Cypress**, **Playwright** e **Jest**.
+- 🔌 **Testes de API**: Utilização de **Postman**, **Newman** e **Rest Assured** para testes de integração.
+- ⚡ **Testes de Performance**: Análise com **JMeter** para otimização de desempenho.
+- 📱 **Testes Mobile**: Automação de testes para Android com **Detox**.
 
 ### 💻 **Desenvolvimento (Secundário)**
-- 🌐 **Front-End**: Domínio completo de **HTML5**, **CSS3**, **JavaScript** e **React**, com foco em criação de interfaces responsivas e amigáveis.
-- 🔧 **Back-End**: Conhecimento básico em **Node.js**, **Express** e bancos de dados como **MongoDB** e **MySQL**.
+- 🌐 **Front-End**: Domínio de **HTML5**, **CSS3**, **JavaScript** e **React**.
+- 🔧 **Back-End**: Conhecimento básico em **Node.js**, **Express**, **MongoDB**, **MySQL**.
 
 ---
 
-<h3 align="left">🔧 Plataformas Utilizadas</h3>
+<h3 align="left">🔧 Plataformas e Ferramentas</h3>
 
 <div align="left">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="30" />
@@ -74,35 +71,33 @@ Tenho <strong>16 anos</strong> e sou de <strong>Januária - MG</strong>. Atuo co
 
 <h3 align="left">📫 Entre em Contato Comigo</h3>
 
-<div align="left">
-
+<p align="left">
 🔹 <strong>Email:</strong><br>
 <a href="mailto:devprestacoes@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/28/gmail-new.png" alt="Gmail" /> devprestacoes@gmail.com
 </a>
+</p>
 
-<br/><br/>
-
+<p align="left">
 🔹 <strong>LinkedIn:</strong><br>
 <a href="https://www.linkedin.com/in/vitor-emanuel-006369361" target="_blank">
   <img src="https://img.icons8.com/color/28/linkedin.png" alt="LinkedIn" /> Vitor Emanuel
 </a>
+</p>
 
-<br/><br/>
-
+<p align="left">
 🔹 <strong>GitHub:</strong><br>
 <a href="https://github.com/victoremanuel23" target="_blank">
   <img src="https://img.icons8.com/ios-filled/28/000000/github.png" alt="GitHub" /> victoremanuel23
 </a>
+</p>
 
-<br/><br/>
-
+<p align="left">
 🔹 <strong>Instagram:</strong><br>
 <a href="https://www.instagram.com/victor.jbf/" target="_blank">
   <img src="https://img.icons8.com/color/28/instagram-new.png" alt="Instagram" /> @victor.jbf
 </a>
-
-</div>
+</p>
 
 ---
 
