@@ -59,7 +59,7 @@ Automação de testes para apps móveis com **Detox**, garantindo a funcionalida
 
 ## 🧪 **Experiência Profissional QA**
 
-### **EM BREVE**
+### **IREI COLOCAR EM BREVE**
 
 ---
 
