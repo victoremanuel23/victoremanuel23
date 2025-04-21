@@ -1,4 +1,4 @@
-<h2 align="left">👨‍💻 Olá! Eu sou o Victor Emanuel — QA Specialist & Dev</h2>
+<h2 align="left">👨‍💻 Olá! Eu sou o Vítor Emanuel — QA Specialist & Dev</h2>
 
 <p align="left">
 Tenho <strong>16 anos</strong> e sou de <strong>Januária - MG</strong>. Atuo como <strong>especialista em testes de software (Quality Assurance)</strong>, com experiência em testes funcionais, automatizados, de carga e mobile. Sou também desenvolvedor secundário, apaixonado por <strong>tecnologia, performance e qualidade</strong>.
