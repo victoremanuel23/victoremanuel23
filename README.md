@@ -1,50 +1,13 @@
-<h2 align="left">👨‍💻 Olá! Eu sou o Vítor Emanuel</h2>
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" alt="Foto de perfil"> </p>:contentReference[oaicite:2]{index=2}
+Olá! 👋
+Sou uma profissional dedicado  à garantia da qualidade de software, com foco em testes manuais e automatizados .
 
-<p align="left">
-  Tenho <strong>16 anos</strong> e sou de <strong>Januária - MG</strong>. Atuo como <strong>especialista em testes de software (Quality Assurance)</strong>, com experiência em testes funcionais, automatizados, de carga e mobile. Sou também desenvolvedor secundário, apaixonado por <strong>tecnologia, performance e qualidade</strong>.
-</p>
+🛠️ Ferramentas e Tecnologias
+Testes: Selenium, Cypress, Postman
 
----
+Linguagens: JavaScrip 
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victoremanuel23&show_icons=true&theme=dracula&include_all_commits=true&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuel23&layout=donut-vertical&theme=dracula&hide_border=false&langs_count=6" height="160" />
-</div>
-
----
-
-<h3 align="left">🚀 Meus Projetos</h3>
-
-<p align="left">
-  Aqui estão alguns dos meus projetos mais recentes, com foco em <strong>Quality Assurance</strong> e <strong>Automação de Testes</strong>:
-</p>
-
-<ul align="left">
-  <li><strong><a href="https://github.com/victoremanuel23/Task-Management-API-Testing" target="_blank">Task Management API Testing</a></strong>: Automação de testes de APIs utilizando **Postman** e **Newman**.</li>
-  <li><strong><a href="https://github.com/victoremanuel23/cypress-ecommerce-testing" target="_blank">Automação de Testes com Cypress</a></strong>: Testes automatizados de fluxos em uma aplicação de e-commerce.</li>
-  <li><strong><a href="https://github.com/victoremanuel23/jmeter-api-performance" target="_blank">Testes de Performance com JMeter</a></strong>: Implementação de testes de carga em uma API de pagamentos.</li>
-  <li><strong><a href="https://github.com/victoremanuel23/Detox-Mobile-Test" target="_blank">Automatização de Testes Mobile com Detox</a></strong>: Testes automatizados em aplicativos móveis.</li>
-</ul>
-
----
-
-<h3 align="left">🧠 Minhas Habilidades</h3>
-
-### ✅ **Quality Assurance (QA)**
-- 🛠️ **Testes Manuais**: Testes funcionais, de regressão, exploração e validação de requisitos.
-- 🤖 **Automação de Testes**: Domínio de **Cypress**, **Playwright** e **Jest**.
-- 🔌 **Testes de API**: Utilização de **Postman**, **Newman** e **Rest Assured** para testes de integração.
-- ⚡ **Testes de Performance**: Análise com **JMeter** para otimização de desempenho.
-- 📱 **Testes Mobile**: Automação de testes para Android com **Detox**.
-
-### 💻 **Desenvolvimento (Secundário)**
-- 🌐 **Front-End**: Domínio de **HTML5**, **CSS3**, **JavaScript** e **React**.
-- 🔧 **Back-End**: Conhecimento básico em **Node.js**, **Express**, **MongoDB**, **MySQL**.
-
----
-
+Metodologias: CI/CD
 <h3 align="left">🔧 Plataformas e Ferramentas</h3>
 
 <div align="left">
