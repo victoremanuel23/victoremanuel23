@@ -57,13 +57,6 @@ Sou um profissional dedicado à garantia da qualidade de software, com foco em t
 </p>
 
 <p align="left">
-🔹 <strong>GitHub:</strong><br>
-<a href="https://github.com/victoremanuel23" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/28/000000/github.png" alt="GitHub" /> victoremanuel23
-</a>
-</p>
-
-<p align="left">
 🔹 <strong>Instagram:</strong><br>
 <a href="https://www.instagram.com/victor.jbf/" target="_blank">
   <img src="https://img.icons8.com/color/28/instagram-new.png" alt="Instagram" /> @victor.jbf
