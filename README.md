@@ -1,10 +1,20 @@
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQGw-0AMm9q_HQ/profile-displaybackgroundimage-shrink_350_1400/B4DZZTqlUtGgAc-/0/1745160395229?e=1752710400&v=beta&t=LH9T2-55ZmlTIc8WXfHpPfRVPyu7cP7i8zm2wkRH5po" width="100%" alt="Banner">
-Olá! 👋
-  Sou uma profissional dedicado  à garantia da qualidade de software, com foco em testes manuais e automatizados .
-  <div aling=" left">
-Metodologias: CI/CD
-2008 - 16 anos
 
+# Olá! 👋  
+Sou um profissional dedicado à garantia da qualidade de software, com foco em testes manuais e automatizados.
+
+<br>
+
+### 🧠 Metodologias  
+- CI/CD  
+- Testes exploratórios  
+- Testes automatizados
+
+<br>
+
+### 👤 Sobre mim  
+- Nascido em 2008  
+- 16 anos  
 
 <h3 align="left">🔧 Plataformas e Ferramentas</h3>
 
