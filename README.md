@@ -2,6 +2,8 @@
 Olá! 👋
   Sou uma profissional dedicado  à garantia da qualidade de software, com foco em testes manuais e automatizados .
   <div></div>
+   <div></div>
+    <div></div>
 Metodologias: CI/CD
 2008 - 16 anos
 
