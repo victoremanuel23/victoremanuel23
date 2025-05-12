@@ -1,11 +1,6 @@
-<p align="center"> <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" alt="Foto de perfil"> </p>:contentReference[oaicite:2]{index=2}
+<p align="center"> <img src="https://avatars.githubusercontent.com/u/12345678?v=4" width="150" alt="Foto de perfil"> 
 Olá! 👋
-Sou uma profissional dedicado  à garantia da qualidade de software, com foco em testes manuais e automatizados .
-
-🛠️ Ferramentas e Tecnologias
-Testes: Selenium, Cypress, Postman
-
-Linguagens: JavaScrip 
+  Sou uma profissional dedicado  à garantia da qualidade de software, com foco em testes manuais e automatizados .
 
 Metodologias: CI/CD
 <h3 align="left">🔧 Plataformas e Ferramentas</h3>
