@@ -7,9 +7,7 @@ Sou um profissional dedicado à garantia da qualidade de software, com foco em t
 
 ### 🧠 Metodologias  
 - CI/CD  
-- Testes exploratórios  
-- Testes automatizados
-
+  
 <br>
 
 ### 👤 Sobre mim  
