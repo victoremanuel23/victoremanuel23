@@ -11,7 +11,6 @@ Sou um profissional dedicado à garantia da qualidade de software, com foco em t
 <br>
 
 ### 👤 Sobre mim  
-- Nascido em 2008  
 - 16 anos  
 
 <h3 align="left">🔧 Plataformas e Ferramentas</h3>
