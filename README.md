@@ -85,7 +85,7 @@
 
 <div align="center">
   <a href="mailto:devprestacoes@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail" /> devprestacoes@gmail.com
+    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail" /> Meu Gmail
   </a><br>
 </div>
 
