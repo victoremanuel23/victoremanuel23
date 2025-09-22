@@ -82,10 +82,13 @@
 
 ## 📫 Contato
 
+
 <div align="center">
-  <a href="devprestacoes@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail" /> Meu Gmail
+  <a href="mailto:devprestacoes@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail" /> devprestacoes@gmail.com
   </a><br>
+</div>
+
 
   <a href="https://www.linkedin.com/in/vitor-emanuel-006369361" target="_blank">
     <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" /> Meu LinkedIn
