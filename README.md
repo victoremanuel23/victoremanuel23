@@ -1,67 +1,113 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQGw-0AMm9q_HQ/profile-displaybackgroundimage-shrink_350_1400/B4DZZTqlUtGgAc-/0/1745160395229?e=1752710400&v=beta&t=LH9T2-55ZmlTIc8WXfHpPfRVPyu7cP7i8zm2wkRH5po" width="100%" alt="Banner">
+<!-- Banner animado superior -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00F7FF&width=1000&lines=Ol%C3%A1%2C+sou+V%C3%ADtor+Emanuel!;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Apaixonado+por+tecnologia%2C+animes+e+UI%2FUX!;Bem-vindo+ao+meu+GitHub+%F0%9F%91%8" alt="Typing SVG" />
+</p>
 
-# Hello world! 👋  
-Sou developer full-stack .
+---
 
-<br>
+<h1 align="center">👋 Hello, eu sou o Vítor Emanuel</h1>
 
-### 🧠 Metodologias  
-- CI/CD  
-  
-<br>
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHJoKNqABWzLw/profile-displaybackgroundimage-shrink_350_1400/B4DZkuLpZNGgAY-/0/1757416432198?e=1761177600&v=beta&t=Df_9NlGhBs8qM9F1cq4qhZSIpWjc0curiGFiUCXel2A" alt="Banner do Perfil" />
+</p>
 
-### 👤 Sobre mim  
-- 16 anos  
+---
 
-<h3 align="left">🔧 Plataformas e Ferramentas</h3>
+## 👨‍💻 Sobre mim
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/JMeter-F56B00?logo=apache-jmeter&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" height="30" />
+- 🎯 Full Stack Developer com foco em resultados e performance
+- 🧩 Adoro resolver problemas e otimizar experiências digitais
+
+
+---
+
+## ⚙️ Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
 </div>
 
 ---
 
-<h3 align="left">💻 Linguagens Utilizadas</h3>
+## 🔧 Ferramentas & Metodologias
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI/CD-00C853?style=for-the-badge&logo=github-actions&logoColor=white" />
 </div>
 
 ---
 
-<h3 align="left">📫 Entre em Contato Comigo</h3>
+## 📺 Meus Animes Favoritos
 
-<p align="left">
-🔹 <strong>Email:</strong><br>
-<a href="mailto:devprestacoes@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/color/28/gmail-new.png" alt="Gmail" /> devprestacoes@gmail.com
-</a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Kimetsu%20no%20Yaiba-FA6C6C?style=for-the-badge&logo=funimation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Attack%20on%20Titan-444444?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jujutsu%20Kaisen-181818?style=for-the-badge&logo=netflix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Naruto%20Shippuden-FCA311?style=for-the-badge&logo=naruto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Death%20Note-000000?style=for-the-badge&logo=apple-tv&logoColor=white" />
+</div>
 
-<p align="left">
-🔹 <strong>LinkedIn:</strong><br>
-<a href="https://www.linkedin.com/in/vitor-emanuel-006369361" target="_blank">
-  <img src="https://img.icons8.com/color/28/linkedin.png" alt="LinkedIn" /> Vitor Emanuel
-</a>
-</p>
 
-<p align="left">
-🔹 <strong>Instagram:</strong><br>
-<a href="https://www.instagram.com/victor.jbf/" target="_blank">
-  <img src="https://img.icons8.com/color/28/instagram-new.png" alt="Instagram" /> @victor.jbf
-</a>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=victoremanuel23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoremanuel23&layout=compact&theme=dracula" height="180em" />
+</div>
+
+---
+
+## 🐍 Snake Contribution Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/victoremanuel23/victoremanuel23/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
-<br clear="both"/>
+## 📫 Contato
 
-<img src="https://raw.githubusercontent.com/victoremanuel23/victoremanuel23/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <a href="mailto:devprestacoes@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail" /> devprestacoes@gmail.com
+  </a><br>
+
+  <a href="https://www.linkedin.com/in/vitor-emanuel-006369361" target="_blank">
+    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" /> LinkedIn
+  </a><br>
+
+  <a href="https://github.com/victoremanuel23" target="_blank">
+    <img src="https://img.icons8.com/material-outlined/30/github.png" alt="GitHub" /> GitHub
+  </a><br>
+
+  <a href="https://www.instagram.com/victor.jbf/" target="_blank">
+    <img src="https://img.icons8.com/color/30/instagram-new.png" alt="Instagram" /> @victor.jbf
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=victoremanuel23&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
