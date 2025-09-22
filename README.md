@@ -83,20 +83,20 @@
 ## 📫 Contato
 
 <div align="center">
-  <a href="mailto:devprestacoes@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail" /> devprestacoes@gmail.com
+  <a href="devprestacoes@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/30/gmail-new.png" alt="Gmail" /> Meu Gmail
   </a><br>
 
   <a href="https://www.linkedin.com/in/vitor-emanuel-006369361" target="_blank">
-    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" /> LinkedIn
+    <img src="https://img.icons8.com/color/30/linkedin.png" alt="LinkedIn" /> Meu LinkedIn
   </a><br>
 
   <a href="https://github.com/victoremanuel23" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/30/github.png" alt="GitHub" /> GitHub
+    <img src="https://img.icons8.com/material-outlined/30/github.png" alt="GitHub" /> Meu GitHub
   </a><br>
 
   <a href="https://www.instagram.com/victor.jbf/" target="_blank">
-    <img src="https://img.icons8.com/color/30/instagram-new.png" alt="Instagram" /> @victor.jbf
+    <img src="https://img.icons8.com/color/30/instagram-new.png" alt="Instagram" /> Meu instagram
   </a>
 </div>
 
