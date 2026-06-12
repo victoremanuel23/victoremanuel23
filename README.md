@@ -85,7 +85,7 @@
 </p>
 
 <p align="left">
-  💌 Quer tirar um projeto do papel ou discutir sobre arquitetura de sistemas? Entre em contato por aqui: ⤵️
+   Quer tirar um projeto do papel ou discutir sobre arquitetura de sistemas? Entre em contato por aqui: ⤵️
 </p>
 
 <p align="left">
